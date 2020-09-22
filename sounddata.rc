@@ -1,0 +1,6 @@
+1 sounds MOVEABLE PURE   "tick.WAV"
+2 sounds MOVEABLE PURE   "row.WAV"
+3 sounds MOVEABLE PURE   "dead.WAV"
+4 sounds MOVEABLE PURE   "stop.WAV"
+5 sounds MOVEABLE PURE   "level.WAV"
+6 sounds MOVEABLE PURE   "start.WAV"
